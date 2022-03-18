@@ -10,4 +10,13 @@ Pandas to read the data files and make data frames
 Plotly to plot the graph
 Dash to make a dashboard
 
+
+#########################################################################################################################################
+
+KPIs are written in Scala language wirh the help of Saprk Sql
+
+Extract the Training zip file and then Open it in IntelliJ 
+
+Every File is included in the zip file
+
 Some Changes that you need to do is Change the path of different files in Project.py files
